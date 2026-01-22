@@ -1,0 +1,2 @@
+# mysiteEx
+Django Personal Blog
